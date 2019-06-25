@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 220px;
+        text-anchor: middle;
+        font-family: Montserrat;
+      }
+    </style>
+  </defs>
+  <text id="JR" class="cls-1" transform="translate(267.811 405.283) scale(1.952)"><tspan x="0">JR</tspan></text>
+</svg>
