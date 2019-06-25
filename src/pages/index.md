@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Jason*Rundell
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Full*Stack Web Developer
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
