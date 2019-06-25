@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Jason Rundell - Full Stack Toronto Web Developer
+title: Jason Rundell
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Full Stack Web Developer
 mainpitch:
   title: Why Kaldi
   description: >
