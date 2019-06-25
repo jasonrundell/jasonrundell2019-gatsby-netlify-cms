@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Jason Rundell
+title: Jason*Rundell
 image: /img/home-jumbotron.jpg
-heading: ' '
-subheading: Full Stack Web Developer
+heading: Full*Stack Web Developer
+subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: ' '
   description: >-

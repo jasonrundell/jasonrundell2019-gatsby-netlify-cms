@@ -11,8 +11,13 @@ const TemplateWrapper = ({ children }) => {
     <div>
       <Helmet>
         <html lang="en" />
-        <title>{title}</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="theme-color" content="#151c25" />
         <meta name="description" content={description} />
+        <meta http-equiv="x-ua-compatible" content="ie=edge" />
+        <meta name="google-site-verification" content="EXLxP82Q9hppREqPEYesIjY478eGrAComN1HB8ITqAY" />
+        <title>{title}</title>
 
         <link
           rel="apple-touch-icon"
